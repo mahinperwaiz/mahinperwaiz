@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahinperwaiz
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Project Management 
-- 💞️ I’m looking to collaborate on DevOps
+- 💞️ I’m looking to collaborate on DevOps/DevRel/DevAdvocate
 - 📫 How to reach me @mahin786 on Linkedin
 
 <!---
